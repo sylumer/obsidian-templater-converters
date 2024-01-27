@@ -1,0 +1,2 @@
+<%* /* Swaps names in the format "surname, forename" to "forename surname" and wraps the name in double square brackets to make it an internal link - useful for organisations where Outlook's address book lists people by surname, but you want a natural order to the names, linking the name to a note with that name */ -%>
+<% tp.file.selection().replaceAll(/(.*), (.*)/gi, "\[\[$2 $1\]\]") %>
