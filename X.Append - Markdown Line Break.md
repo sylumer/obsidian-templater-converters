@@ -1,0 +1,2 @@
+<%* /* Removes any trailing whitespace and adds to spaces at the end of a line as a Markdown syntax standard for a newline (not required by Obsidian, but useful if reusing the Markdown elsewhere). Note this includes the final line even if there is no newline at the end of the selection */ -%>
+<% tp.file.selection().replaceAll(/(\s*)$/gmi, "").replaceAll(/^(.*?)$/gmi, "$1  ") %>
