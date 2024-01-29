@@ -2,9 +2,9 @@
 
 
 ## Description
-[Obsidian](https://obsidian.md) is a cross-platform application that is popular in the personal knowledge management (PKM) space. It provides a rich environment in which to create interrelated and interlinked content. Much of this richness comes from the breadth of its commnuity-driven plugin ecosystem. One of the most popular and powerful plugins is [Templater](https://silentvoid13.github.io/Templater/), a plugin that allows you to create simple and sophisticated content with reduced effort.
+[Obsidian](https://obsidian.md) is a cross-platform application that is popular in the personal knowledge management (PKM) space. It provides a rich environment in which to create interrelated and interlinked content. Much of this richness comes from the breadth of its community-driven plugin ecosystem. One of the most popular and powerful plugins is [Templater](https://silentvoid13.github.io/Templater/), a plugin that allows you to create simple and sophisticated content with reduced effort.
 
-Often this is used to prepare a note template in Obsidian, or to add a particular section of text. i.e. Templater is used to insert ststic or dynamic text into an Obsidian note.
+Often this is used to prepare a note template in Obsidian, or to add a particular section of text. i.e. Templater is used to insert static or dynamic text into an Obsidian note.
 
 However, Templater is also capable of utilising existing text in terms of insertion. Therefore it is possible to create Templater templates that allow you to do things such as process a text selection in some way, effectively carrying out a conversion.
 
@@ -15,7 +15,7 @@ This repository is a collection of Templater templates that enable you to carry 
 
 
 ### Prerequisites
-1. You have installed and are runnign [Obsidian](https://obsidian.md).
+1. You have installed and are running [Obsidian](https://obsidian.md).
 2. You have installed [the Templater plugin for Obsidian](obsidian://show-plugin?id=templater-obsidian).
 
 
