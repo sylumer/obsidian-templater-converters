@@ -1,1 +1,0 @@
-# obsidian-templater-converters
