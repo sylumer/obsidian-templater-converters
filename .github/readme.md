@@ -1,6 +1,5 @@
 # Obsidian Templater Converters
 
-
 ## Description
 [Obsidian](https://obsidian.md) is a cross-platform application that is popular in the personal knowledge management (PKM) space. It provides a rich environment in which to create interrelated and interlinked content. Much of this richness comes from the breadth of its community-driven plugin ecosystem. One of the most popular and powerful plugins is [Templater](https://silentvoid13.github.io/Templater/), a plugin that allows you to create simple and sophisticated content with reduced effort.
 
@@ -12,7 +11,6 @@ This repository is a collection of Templater templates that enable you to carry 
 
 
 ## Installation
-
 
 ### Prerequisites
 1. You have installed and are running [Obsidian](https://obsidian.md).
@@ -28,7 +26,7 @@ With Templater installed, open Obsidian's *Settings* and navigate to the *Commun
 
 Navigate to this folder in your preferred file management application.
 
-From this GitHub repository, you can download individual files, the entire repository as a ZIP file, or sync it locally using your favourite `git` client.
+From this GitHub repository, you can download individual files, the entire repository as a ZIP file, or sync it locally using your favourite `git` client. The template folder contains all of the template files.
 
 > [!TIP]
 > - [**GitHub Docs:** Downloading Files from GitHub](https://blog.hubspot.com/website/download-from-github)
