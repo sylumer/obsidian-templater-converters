@@ -9,6 +9,16 @@ However, Templater is also capable of utilising existing text in terms of insert
 
 This repository is a collection of Templater templates that enable you to carry out text processing tasks on selected text.
 
+### Examples
+There are many templates in the repository and more will be added over time. Here are just a handful to give you an idea of what is available.
+
+- Convert selected text to title case.
+- Prefix selected lines with a string of characters.
+- Remove lines in the selection containing a string of characters.
+- Sort the selected lines alphabetically or numerically.
+- Remove trailing whitespace characters from lines in the selection. 
+
+Take a look in the [`templates`](https://github.com/sylumer/obsidian-templater-converters/tree/main/templates) folder to see the full list of templates.
 
 ## Installation
 
