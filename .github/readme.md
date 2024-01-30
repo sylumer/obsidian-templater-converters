@@ -20,6 +20,7 @@ There are many templates in the repository and more will be added over time. Her
 
 Take a look in the [`templates`](https://github.com/sylumer/obsidian-templater-converters/tree/main/templates) folder to see the full list of templates.
 
+
 ## Installation
 
 ### Prerequisites
@@ -61,6 +62,9 @@ A good number of the actions I created were for processing text, and I found mys
 
 Given the flexibility of Templater, it presented a natural solution to what I wanted to do, and so I created a set of conversion templates that I continue to add to.
 
+> [!TIP]
+> **See also:**
+> - [Obsidian: Templater Converters](https://thoughtasylum.com/2024/01/30/obsidian-templater-converters/)
 
 ## Licensing, About Related Resources, Etc.
 Licensing I hope isn't the most exciting thing here, but it is still very important. This repo is building on top of other things, and it is important to formally acknowledge the work they have put in so this collection of what are effectively scripts can have any function whatsoever.
